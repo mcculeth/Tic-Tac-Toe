@@ -1,0 +1,27 @@
+h1{
+    background-color: lightgreen;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+div{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+}
+.hello{
+    color: blue;
+    font-size: 36px;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+}
+table{
+    background-color: lightcoral;
+    width: 600px;
+    height: 600px;
+}
+TD{
+    background-color: white;
+}
